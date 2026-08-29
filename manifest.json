@@ -1,0 +1,16 @@
+{
+  "name": "email-tone-action-coach",
+  "displayName": "Email Tone and Action Coach",
+  "version": "1.0.0",
+  "description": "Recipient-aware coaching for adapting, polishing, reviewing, or reframing email drafts.",
+  "entryPoint": "agent-instructions.md",
+  "references": [
+    "references/persona-playbook.md",
+    "references/review-checklist.md"
+  ],
+  "examples": [
+    "examples/example-prompts.md"
+  ],
+  "distributionType": "copilot-studio-source-bundle",
+  "nativeImportableSolution": false
+}
